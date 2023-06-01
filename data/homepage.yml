@@ -1,0 +1,99 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "Feronia"
+  content : "Plant, Power, Protect."
+  image : "images/plant.jpg"
+  button:
+    enable : true
+    label : "WHAT WE DO"
+    link : "#products"
+
+#################### Mission #####################
+mission:
+  enable : true
+  title : "Breathe New Life Into Your Home"
+  section : "MISSION"
+  content : "Introducing the world’s first technological plant care product. With our state-of-art technology,
+  we monitor your plant's environment 24/7. Whether you're home or away, we always have your back."
+  video_thumb: "images/video-thumb.jpg"
+  #video_id: "ResipmZmpDU"
+
+#################### Vission #####################
+vision:
+  enable : true
+  section : "VISION"
+  vision_item:
+  - title : "Plant"
+    image : "images/photo-1477554193778-9562c28588c0.jpeg"
+    content : "Non-intrusive sensors which complement your plant's aesthetic."
+
+  - title : "Power"
+    image : "images/vision/vision-02.jpg"
+    content : "Very efficient, very good. <br>Elon Musk -  Sponsor"
+
+  - title : "Protect"
+    image : "images/vision/vision-03.jpg"
+    content : "Very good at protecting."
+
+
+#################### product ####################
+product:
+  enable : true
+  section : "Products"
+  title : "Some Of Our Best Products"
+  content : "See the innovation that has come through the Feronia's novel way of thinking. As an advancement company, the goal is to continuously find areas to help make the world a cleaner, safer place."
+  product_item:
+  - title : "Feronia Guardian X100"
+    image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
+    content : "Standard model."
+    project_url : "#"
+
+  - title : "Feronia Guardian X200"
+    image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
+    content : "This version physically cares for your plant and rectifies any environmental imbalances."
+    project_url : "#"
+
+  - title : "Feronia Guardian X500"
+    image : "images/photo-1518531933037-91b2f5f229cc.jpeg"
+    content : "Our most advanced model incorporates machine learning models to give more accurate guidance on plant wellbeing. "
+    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "NEXT GENERATION"
+  title : "Our Future Products"
+  # image : "images/map-bg.jpg"
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
+  <br><br> List of advanced features:
+  <br> - Using machine learning to obtain better standard values for 'ideal' and 'poor' conditions, sensor data for analytics will only be taken with the user's consent
+  <br> - More sensors e.g. light sensor
+  <br> - Automatic care - more complex mechanical systems to take care of your plant for you when you are not home, e.g. self-watering functionality"
+
+
+################### next generation products #################
+# need to implement html
+future:
+  enable : false
+  section : "NEXT GENERATION"
+  title : "Our Future Products"
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
+  <br><br> - List of advanced features we haven't made yet
+  <br> - Bloop
+  <br> - bleep"
+  # button_label : "Apply Now"
+  # button_link : "career"
+
+################### call to action #################
+call_to_action:
+  enable : false
+  section : "NEXT GENERATION"
+  title : "Our Future Products"
+  content : " Our exclusive research and development team have been working on the next generations in aim for better accuracy for your delicate plants.
+  <br><br> List of advanced features:
+  <br> - Using machine learning to obtain better standard values for 'ideal' and 'poor' conditions, sensor data for analytics will only be taken with the user's consent
+  <br> - More sensors e.g. light sensor
+  <br> - Automatic care - more complex mechanical systems to take care of your plant for you when you are not home, e.g. self-watering functionality"
+  button_link : "career"
